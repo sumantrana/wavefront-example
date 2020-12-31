@@ -1,0 +1,4 @@
+wavefront:
+  application:
+    name: sr-wavefront-example
+    service: book-service
